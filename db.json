@@ -1,0 +1,298 @@
+{
+  "donar": [
+    {
+      "id": "4782",
+      "role": "donar",
+      "name": "joel",
+      "email": "joel@gmail.com",
+      "password": "1234",
+      "address": "HYDERABAD",
+      "phone": "9182654588"
+    }
+  ],
+  "admin": [
+    {
+      "role": "admin",
+      "name": "admin",
+      "email": "admin@admin.com",
+      "password": "Joel*apr19",
+      "address": "HYDERABAD",
+      "phone": "9182654602",
+      "id": "d745"
+    }
+  ],
+  "organization": [
+    {
+      "id": "7eae",
+      "role": "organization",
+      "organization": "APOLLO",
+      "email": "apollo@gmail.com",
+      "password": "1234",
+      "address": "HYDERABAD",
+      "phone": "9182765434"
+    },
+    {
+      "id": "695d",
+      "role": "organization",
+      "organization": "Green Cross",
+      "email": "greencross@gmail.com",
+      "password": "1234",
+      "address": "KNL",
+      "phone": "8279402797"
+    }
+  ],
+  "Details": [
+    {
+      "id": "",
+      "donarEmail": "",
+      "inventoryType": "",
+      "bloodGroup": "",
+      "quantity": "",
+      "date": ""
+    },
+    {
+      "id": "619a",
+      "donarEmail": "test@gmail.com",
+      "inventoryType": "in",
+      "bloodGroup": "AB+",
+      "quantity": "13",
+      "date": "2024-01-23"
+    },
+    {
+      "id": "098e",
+      "donarEmail": "test1@gmail.com",
+      "inventoryType": "out",
+      "bloodGroup": "AB+",
+      "quantity": "5",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "3bcf",
+      "donarEmail": "test9@gmail.com",
+      "inventoryType": "in",
+      "bloodGroup": "A+",
+      "quantity": "25",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "7ef8",
+      "donarEmail": "test4@gmail.com",
+      "inventoryType": "out",
+      "bloodGroup": "A+",
+      "quantity": "20",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "d8f3",
+      "donarEmail": "test5@gmail.com",
+      "inventoryType": "in",
+      "bloodGroup": "A-",
+      "quantity": "25",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "0982",
+      "donarEmail": "test6@gmail.com",
+      "inventoryType": "out",
+      "bloodGroup": "A-",
+      "quantity": "20",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "098e",
+      "donarEmail": "test6@gmail.com",
+      "inventoryType": "out",
+      "bloodGroup": "B-",
+      "quantity": "20",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "c0dd",
+      "donarEmail": "u@u.com",
+      "inventoryType": "in",
+      "bloodGroup": "AB+",
+      "quantity": "12",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "5a8d",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "B-",
+      "quantity": "60",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "d051",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O+",
+      "quantity": "15",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "d026",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O+",
+      "quantity": "15",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "cc98",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O+",
+      "quantity": "15",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "d28e",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O+",
+      "quantity": "15",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "1ddf",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "AB+",
+      "quantity": "25",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "b560",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "AB-",
+      "quantity": "25",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "5d22",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "AB-",
+      "quantity": "5",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "838e",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "AB-",
+      "quantity": "5",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "a2b1",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "AB+",
+      "quantity": "2",
+      "date": "2024-01-26"
+    },
+    {
+      "id": "898d",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "AB+",
+      "quantity": "30",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "8ab4",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "O+",
+      "quantity": "30",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "3d2f",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "O+",
+      "quantity": "30",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "41ca",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O+",
+      "quantity": "30",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "ab6f",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O-",
+      "quantity": "25",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "337e",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O-",
+      "quantity": "25",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "354e",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "B+",
+      "quantity": "40",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "9217",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "O-",
+      "quantity": "25",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "2afb",
+      "donarEmail": "NA",
+      "inventoryType": "out",
+      "bloodGroup": "O-",
+      "quantity": "25",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "214b",
+      "donarEmail": "NA",
+      "inventoryType": "in",
+      "bloodGroup": "AB+",
+      "quantity": "25",
+      "date": "2024-01-29"
+    }
+  ],
+  "hospital": [
+    {
+      "role": "hospital",
+      "name": "OMEGA HEALTH CARE",
+      "email": "Omega@gmail.com",
+      "password": "1234",
+      "address": "DELHI",
+      "phone": "9666889086",
+      "id": "9c41"
+    },
+    {
+      "role": "hospital",
+      "name": "AMEELIO HEALTH CARE",
+      "email": "AMEELIO@gmail.com",
+      "password": "1234",
+      "address": "KURNOOL",
+      "phone": "7013856783",
+      "id": "9c41"
+    }
+  ]
+}
